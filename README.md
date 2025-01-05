@@ -50,7 +50,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ## OUTPUT:
 
 
-![image](https://github.com/user-attachments/assets/34bbdcd0-3b54-43cb-8df9-6d3335b7711a)
+![EXP 6 2 DRAWING-1](https://github.com/user-attachments/assets/58620dc4-e812-456c-8363-3e12c74d79e8)
+
 
 
 ## RESULT:
